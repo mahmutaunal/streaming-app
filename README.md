@@ -14,7 +14,7 @@ In this application, the exoplayer library is used to display the broadcast take
 ## Features
 
 The android app lets you:
-- Employees log in to the application with their username and password.
+- Live streaming
 
 ## Screenshots
 
